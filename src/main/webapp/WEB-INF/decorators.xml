@@ -1,0 +1,5 @@
+<decorators defaultdir="/WEB-INF/view/layout">
+	<decorator name="user" page="header1.jsp">
+		<pattern>/*</pattern>
+	</decorator>
+</decorators>

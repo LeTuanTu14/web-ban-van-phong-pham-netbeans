@@ -1,0 +1,15 @@
+com\se\VanPhongPhamTLP\service\LoaiServiceImpl.class
+com\se\VanPhongPhamTLP\entity\Loai.class
+com\se\VanPhongPhamTLP\dao\LoaiDAOImpl.class
+com\se\VanPhongPhamTLP\service\LoaiService.class
+com\se\VanPhongPhamTLP\controller\HomeController.class
+com\se\VanPhongPhamTLP\controller\SanPhamController.class
+com\se\VanPhongPhamTLP\dao\SanPhamDAOImpl.class
+com\se\VanPhongPhamTLP\dao\LoaiDAO.class
+com\se\VanPhongPhamTLP\service\SanPhamServiceImpl.class
+com\se\VanPhongPhamTLP\entity\SanPham.class
+com\se\VanPhongPhamTLP\controller\LoaiController.class
+com\se\VanPhongPhamTLP\dao\SanPhamDAO.class
+com\se\VanPhongPhamTLP\dto\SanPhamDTO.class
+com\se\VanPhongPhamTLP\dto\LoaiDTO.class
+com\se\VanPhongPhamTLP\service\SanPhamService.class
